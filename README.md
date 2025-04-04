@@ -45,6 +45,7 @@
   </div>
   <div>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="35" height="35"/>
+    <img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
   </div>
   
 </div>
