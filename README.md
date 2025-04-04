@@ -16,14 +16,13 @@
 <!----------------------------------------------------------->
 <div>
   <h2>Formações</h2>
+  > Universidade Cidade de Sao Paulo - UNICID
+    Tecnólogo, Analise e Desenvolvimento de Sistemas
+    2022 - 2024
   
-  <p>Universidade Cidade de Sao Paulo - UNICID</p>
-  Tecnólogo, Analise e Desenvolvimento de Sistemas
-  2022 - 2024
-  
-  <p>FIAP</p> 
-  Pós tech, Arquitetura e Desenvolvimento Java
-  2025 - 2026
+  > FIAP
+    Pós tech, Arquitetura e Desenvolvimento Java
+    2025 - 2026
 </div>
 <!----------------------------------------------------------->
 <div>
