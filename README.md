@@ -15,7 +15,7 @@
   </div>
 <!----------------------------------------------------------->
 <div>
-  <h2>Formações</h2>
+  <h2>Formações 🎓</h2>
   - Universidade Cidade de Sao Paulo - UNICID
     Tecnólogo, Analise e Desenvolvimento de Sistemas
     2022 - 2024
