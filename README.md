@@ -7,7 +7,7 @@
 </div>
 <!----------------------------------------------------------->
 <div>
-<a href="https://www.linkedin.com/in/vitorfidelis01" target="_blank"><i class="devicon-linkedin-plain-wordmark colored"></i></a>
+<a href="https://www.linkedin.com/in/vitorfidelis01" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30"/></a>
 </div>
 <!----------------------------------------------------------->
   <div>
