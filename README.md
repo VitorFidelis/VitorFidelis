@@ -7,7 +7,7 @@
 </div>
 <!----------------------------------------------------------->
 <div>
-<a href="https://www.linkedin.com/in/vitorfidelis01" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/vitorfidelis01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!----------------------------------------------------------->
   <div>
