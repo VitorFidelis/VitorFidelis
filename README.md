@@ -7,7 +7,7 @@
 </div>
 <!----------------------------------------------------------->
 <div>
-<a href="https://www.linkedin.com/in/vitorfidelis01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vitorfidelis01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!----------------------------------------------------------->
   <div>
@@ -35,6 +35,7 @@
   <div>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45" height="45"/>
@@ -44,8 +45,19 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/>
   </div>
   <div>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="35" height="35"/>
-    <img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" height="35" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35"/>
+     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="45" height="45"/>
+  </div>
+  <div>
+    <h2>Estatística:</h2>
+    <a href="https://github.com/VitorFidelis">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFidelis&layout=compact&langs_count=7&title_color=F8F8FF&icon_color=f9f9f9&text_color=AFC9E0&bg_color=1C1C1C"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VitorFidelis&rank_icon=github&show_icons=true&title_color=F8F8FF&icon_color=f9f9f9&text_color=AFC9E0&bg_color=1C1C1C&include_all_commits=true&count_private=true"/>
+  </div>
+  <div>
+    
   </div>
   
 </div>
