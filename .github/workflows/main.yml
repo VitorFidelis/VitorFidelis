@@ -17,6 +17,9 @@ jobs:
           github_user_name: VitorFidelis
           outputs: |
             dist/github-contribution-grid-snake.svg
+          colors: |
+            background:#1C1C1C
+            snake:#F8F8FF
 
       # Publica no branch "output"
       - uses: crazy-max/ghaction-github-pages@v2.1.3
