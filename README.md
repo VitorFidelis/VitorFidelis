@@ -56,6 +56,10 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFidelis&layout=compact&langs_count=7&title_color=F8F8FF&icon_color=f9f9f9&text_color=AFC9E0&bg_color=1C1C1C"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VitorFidelis&rank_icon=github&show_icons=true&title_color=F8F8FF&icon_color=f9f9f9&text_color=AFC9E0&bg_color=1C1C1C&include_all_commits=true&count_private=true"/>
   </div>
-</div>
+
       
-![Snake animation](https://github.com/VitorFidelis/VitorFidelis.git/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/VitorFidelis/VitorFidelis/output/github-contribution-grid-snake.svg)
+
+  
+</div>
+  
