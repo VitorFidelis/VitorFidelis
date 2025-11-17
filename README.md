@@ -17,8 +17,6 @@
     <h2>Sobre mim:</h2>
       <p>Sou Vitor, formado em Análise e Desenvolvimento de Sistemas. Atualmente cursando Pós-Graduação em Especialização, Arquitetura e Desenvolvimento Java pela FIAP.</p>
       <p>Tenho experiência como analista de suporte computacional e estou em transição para a área de desenvolvimento, buscando minha primeira oportunidade como desenvolvedor Java. Meu objetivo é criar soluções             eficientes e escaláveis, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.</p>
-      <p>Estou aberto a novas oportunidades e pronto para enfrentar desafios que me permitam crescer profissionalmente.</p>
-        📌 Objetivo: Primeiro emprego como desenvolvedor Java
   </div>
 <!----------------------------------------------------------->
 <div>
