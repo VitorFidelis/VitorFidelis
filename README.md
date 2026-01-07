@@ -2,15 +2,14 @@
   <img src="foto_capa.png"/>
 </div>
 <!----------------------------------------------------------->
-<div>
-  <h1>Vitor Henrique </h1>
-</div>
+<h1 align="center">
+ Bem-vindo ao meu GitHub!
+</h1>
 <!----------------------------------------------------------->
 <div>
   <a href="https://www.linkedin.com/in/vitorfidelis01/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&label=Click%20here!&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitorfidelis01%2F">
 </a>
-
-
+  
 </div>
 <!----------------------------------------------------------->
   <div>
