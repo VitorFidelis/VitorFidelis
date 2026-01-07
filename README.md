@@ -3,7 +3,7 @@
 </div>
 <!----------------------------------------------------------->
 <h1 align="center">
- Bem-vindo ao meu GitHub!
+ Bem-vindo ao meu GitHub! 👋🏻
 </h1>
 <!----------------------------------------------------------->
 <div>
@@ -13,7 +13,7 @@
 </div>
 <!----------------------------------------------------------->
   <div>
-    <h2>Sobre mim:</h2>
+    <h2>Sobre mim</h2>
       <p>Sou Vitor, formado em Análise e Desenvolvimento de Sistemas. Atualmente cursando Pós-Graduação em Especialização, Arquitetura e Desenvolvimento Java pela FIAP.</p>
       <p>Tenho experiência como analista de suporte computacional e estou em transição para a área de desenvolvimento, buscando minha primeira oportunidade como desenvolvedor Java. Meu objetivo é criar soluções             eficientes e escaláveis, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.</p>
   </div>
