@@ -68,7 +68,6 @@ Também estudo arquitetura de microsserviços, conteinerização com Docker e co
 <img src="https://img.shields.io/github/stars/VitorFidelis?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
 
 </div>
----
 
 ## 🐍 Gráfico de contribuições
 
