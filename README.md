@@ -1,54 +1,95 @@
-<div>
-  <img src="foto_capa.png"/>
-</div>
-<!----------------------------------------------------------->
-<h1 align="center">
- Bem-vindo ao meu GitHub! 👋🏻
-</h1>
-<!----------------------------------------------------------->
-<div>
-  <a href="https://www.linkedin.com/in/vitorfidelis01/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&label=Click%20here!&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitorfidelis01%2F">
-</a>
-  
-</div>
-<!----------------------------------------------------------->
-  <div>
-    <h2>Sobre mim</h2>
-      <p>Sou Vitor, formado em Análise e Desenvolvimento de Sistemas. Atualmente cursando Pós-Graduação em Especialização, Arquitetura e Desenvolvimento Java pela FIAP.</p>
-      <p>Tenho experiência como analista de suporte computacional e estou em transição para a área de desenvolvimento, buscando minha primeira oportunidade como desenvolvedor Java. Meu objetivo é criar soluções             eficientes e escaláveis, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.</p>
-  </div>
-<!----------------------------------------------------------->
-<div>
-  <h2>Formações 🎓</h2>
-  
-  - Universidade Cidade de São Paulo - UNICID
-    Tecnólogo, Analise e Desenvolvimento de Sistemas
-    2022 - 2024
-    <br>  
-  - FIAP
-    Pós tech, Arquitetura e Desenvolvimento Java
-    2025 - 2026
-</div>
-<!----------------------------------------------------------->
-<div>
-  <h4>Ferramentas e Tecnologias</h4>
-  
-  <div>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" height="35" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35"/>
-  </div>
-      
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitor%20Fidelis&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
 
+<div align="center">
 
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Backend+Developer+Java;Spring+Boot+Developer;API+REST+%7C+Microservices;Always+learning+new+technologies)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor backend com foco no ecossistema Java.
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+📚 Pós-graduação em Arquitetura e Desenvolvimento Java  
+
+Tenho experiência anterior como analista de suporte computacional e atualmente estou focado no desenvolvimento backend, criando APIs e aplicações escaláveis utilizando Java e o ecossistema Spring.
+
+Também estudo arquitetura de microsserviços, conteinerização com Docker e computação em nuvem.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,git,github,linux" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorFidelis&theme=tokyonight"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorFidelis&theme=tokyonight"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorFidelis&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de commits
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VitorFidelis&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 👀 Perfil
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VitorFidelis&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/VitorFidelis?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/VitorFidelis?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
+
+</div>
+---
+
+## 🐍 Gráfico de contribuições
+
+<div align="center">
+
+![snake gif](https://github.com/VitorFidelis/VitorFidelis/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/vitorfidelis01/
+
+🐙 GitHub  
+https://github.com/VitorFidelis
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
