@@ -47,7 +47,7 @@ Também estudo arquitetura de microsserviços, conteinerização com Docker e co
 
 ---
 
-# 🔥 Sequência de commits
+## 🔥 Sequência de commits
 
 <div align="center">
 
