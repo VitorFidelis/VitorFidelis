@@ -140,7 +140,7 @@ Estudos e aplicação prática de conceitos como:
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/vitorfidelis01/
+https://www.linkedin.com/in/vitor-fideliss/
 
 🐙 **GitHub**
 
