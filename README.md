@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Backend+Developer+Java;Spring+Boot+Developer;API+REST+%7C+Microservices;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF\&size=28\&center=true\&vCenter=true\&width=900\&lines=Backend+Developer+%7C+Java;Spring+Boot+%7C+REST+APIs;Microservices+%7C+Docker+%7C+PostgreSQL;AWS+%7C+Terraform+%7C+Mensageria)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,14 +14,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend com foco no ecossistema Java.
+Sou **Desenvolvedor Backend com foco no ecossistema Java**, graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Arquitetura e Desenvolvimento Java**.
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📚 Pós-graduação em Arquitetura e Desenvolvimento Java  
+Minha experiência profissional começou em **suporte técnico e infraestrutura**, onde desenvolvi habilidades em troubleshooting, análise de problemas, sistemas e ambientes corporativos.
 
-Tenho experiência anterior como analista de suporte computacional e atualmente estou focado no desenvolvimento backend, criando APIs e aplicações escaláveis utilizando Java e o ecossistema Spring.
+Atualmente, direciono minha carreira para o desenvolvimento backend, desenvolvendo projetos com **Java, Spring Boot, APIs REST, bancos de dados relacionais e NoSQL, Docker, mensageria e boas práticas de arquitetura de software**.
 
-Também estudo arquitetura de microsserviços, conteinerização com Docker e computação em nuvem.
+Também realizo estudos e experimentos com **AWS e Terraform**, explorando conceitos de microsserviços, arquitetura orientada a eventos e soluções serverless.
 
 ---
 
@@ -29,9 +28,63 @@ Também estudo arquitetura de microsserviços, conteinerização com Docker e co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,rabbitmq,kafka,aws,terraform,git,github,linux" />
 
 </div>
+
+### Backend
+
+`Java` `Spring Boot` `Spring Security` `JPA` `JDBC` `REST APIs`
+
+### Banco de Dados
+
+`PostgreSQL` `MySQL` `MongoDB` `H2` `SQL`
+
+### Arquitetura & Mensageria
+
+`Clean Architecture` `Microsserviços` `SOLID` `MVC` `RabbitMQ` `Apache Kafka`
+
+### Cloud & DevOps
+
+`AWS` `Lambda` `API Gateway` `RDS` `SQS` `SNS` `Terraform` `Docker` `Docker Compose` `GitHub Actions`
+
+### Testes
+
+`JUnit` `Mockito` `AssertJ` `Cucumber` `Rest-Assured` `JaCoCo`
+
+---
+
+## 🧪 Testes e Qualidade
+
+Conhecimentos e prática com:
+
+* JUnit
+* Mockito
+* AssertJ
+* Cucumber
+* Rest-Assured
+* JaCoCo
+* Testes unitários
+* Testes de integração
+* Testes de API
+
+Busco aplicar testes e boas práticas de engenharia para aumentar a confiabilidade e a manutenibilidade das aplicações.
+
+---
+
+## 🏗️ Arquitetura
+
+Estudos e aplicação prática de conceitos como:
+
+* Clean Architecture
+* MVC
+* SOLID
+* Padrões de Projeto
+* Microsserviços
+* Arquitetura Orientada a Eventos
+* APIs REST
+* Mensageria
+* Arquiteturas Serverless
 
 ---
 
@@ -57,6 +110,16 @@ Também estudo arquitetura de microsserviços, conteinerização com Docker e co
 
 ---
 
+## 🐍 Gráfico de contribuições
+
+<div align="center">
+
+![snake gif](https://github.com/VitorFidelis/VitorFidelis/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 👀 Perfil
 
 <div align="center">
@@ -69,23 +132,21 @@ Também estudo arquitetura de microsserviços, conteinerização com Docker e co
 
 </div>
 
-## 🐍 Gráfico de contribuições
-
-<div align="center">
-
-![snake gif](https://github.com/VitorFidelis/VitorFidelis/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 ## 🌐 Contato
 
-💼 LinkedIn  
+<div align="center">
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/vitorfidelis01/
 
-🐙 GitHub  
+🐙 **GitHub**
+
 https://github.com/VitorFidelis
+
+</div>
 
 <div align="center">
 
