@@ -1,155 +1,86 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitor%20Fidelis&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:2563EB&height=180&section=header&text=Vitor%20Fidelis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer&descAlignY=58&descSize=18"/>
 
-</div>
+### Desenvolvedor Backend Java | Spring Boot
 
-<div align="center">
+**Desenvolvedor Java Júnior**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF\&size=28\&center=true\&vCenter=true\&width=900\&lines=Backend+Developer+%7C+Java;Spring+Boot+%7C+REST+APIs;Microservices+%7C+Docker+%7C+PostgreSQL;AWS+%7C+Terraform+%7C+Mensageria)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou **Desenvolvedor Backend com foco no ecossistema Java**, graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Arquitetura e Desenvolvimento Java**.
-
-Minha experiência profissional começou em **suporte técnico e infraestrutura**, onde desenvolvi habilidades em troubleshooting, análise de problemas, sistemas e ambientes corporativos.
-
-Atualmente, direciono minha carreira para o desenvolvimento backend, desenvolvendo projetos com **Java, Spring Boot, APIs REST, bancos de dados relacionais e NoSQL, Docker, mensageria e boas práticas de arquitetura de software**.
-
-Também realizo estudos e experimentos com **AWS e Terraform**, explorando conceitos de microsserviços, arquitetura orientada a eventos e soluções serverless.
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,rabbitmq,kafka,aws,terraform,git,github,linux" />
-
-</div>
-
-### Backend
-
-`Java` `Spring Boot` `Spring Security` `JPA` `JDBC` `REST APIs`
-
-### Banco de Dados
-
-`PostgreSQL` `MySQL` `MongoDB` `H2` `SQL`
-
-### Arquitetura & Mensageria
-
-`Clean Architecture` `Microsserviços` `SOLID` `MVC` `RabbitMQ` `Apache Kafka`
-
-### Cloud & DevOps
-
-`AWS` `Lambda` `API Gateway` `RDS` `SQS` `SNS` `Terraform` `Docker` `Docker Compose` `GitHub Actions`
-
-### Testes
-
-`JUnit` `Mockito` `AssertJ` `Cucumber` `Rest-Assured` `JaCoCo`
-
----
-
-## 🧪 Testes e Qualidade
-
-Conhecimentos e prática com:
-
-* JUnit
-* Mockito
-* AssertJ
-* Cucumber
-* Rest-Assured
-* JaCoCo
-* Testes unitários
-* Testes de integração
-* Testes de API
-
-Busco aplicar testes e boas práticas de engenharia para aumentar a confiabilidade e a manutenibilidade das aplicações.
-
----
-
-## 🏗️ Arquitetura
-
-Estudos e aplicação prática de conceitos como:
-
-* Clean Architecture
-* MVC
-* SOLID
-* Padrões de Projeto
-* Microsserviços
-* Arquitetura Orientada a Eventos
-* APIs REST
-* Mensageria
-* Arquiteturas Serverless
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorFidelis&theme=tokyonight"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorFidelis&theme=tokyonight"/>
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorFidelis&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/vitor-fideliss/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/VitorFidelis">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🔥 Sequência de commits
+## Sobre mim
 
-<div align="center">
+Sou graduado em **Análise e Desenvolvimento de Sistemas** pela UNICID e pós-graduado em **Arquitetura e Desenvolvimento Java** pela FIAP.
 
-<img src="https://streak-stats.demolab.com?user=VitorFidelis&theme=tokyonight"/>
+Minha trajetória profissional começou na área de suporte técnico e infraestrutura de TI. Atualmente, direciono minha carreira para o desenvolvimento backend, com foco em Java e Spring Boot.
 
-</div>
+Tenho desenvolvido projetos práticos para aprimorar meus conhecimentos em construção de APIs REST, integração com bancos de dados, segurança, testes automatizados e arquitetura de software.
 
----
-
-## 🐍 Gráfico de contribuições
-
-<div align="center">
-
-![snake gif](https://github.com/VitorFidelis/VitorFidelis/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+Busco minha oportunidade como **Desenvolvedor Backend Java Júnior**, onde possa contribuir com meus conhecimentos, aprender com profissionais experientes e participar de projetos reais.
 
 ---
 
-## 👀 Perfil
+## Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VitorFidelis&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/VitorFidelis?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/VitorFidelis?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,git,github,aws,terraform,linux&theme=light"/>
 
 </div>
+
+</br>
+
+**Outros conhecimentos:** Spring Security, JWT, JPA, JDBC, APIs REST, OpenAPI, RabbitMQ, Kafka, JUnit, Mockito, Clean Architecture e SOLID.
+
+<sub>AWS e Terraform: estudos e experimentos práticos.</sub>
 
 ---
 
-## 🌐 Contato
+## Projetos em destaque
+
+### FinaTermo — Gestão de Termos de Responsabilidade
+
+Sistema desenvolvido para digitalizar o processo de entrega e recebimento de equipamentos de TI, substituindo documentos físicos por registros digitais.
+
+**Principais funcionalidades:**
+- Cadastro e gerenciamento de funcionários, setores e equipamentos.
+- Registro dos equipamentos entregues, incluindo quantidade e número de patrimônio.
+- Assinatura digital realizada diretamente na tela.
+- Geração automática de documentos PDF com os dados do termo e a assinatura.
+
+**Decisões técnicas:**
+- Desenvolvimento de uma API REST utilizando Java e Spring Boot.
+- Persistência dos dados em PostgreSQL.
+- Containerização da aplicação com Docker.
+- Integração entre o registro dos termos, a assinatura digital e a geração dos documentos.
+
+**Tecnologias:** Java, Spring Boot, PostgreSQL e Docker.
+
+[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github)](https://github.com/VitorFidelis/FinaTermo)
+
+---
 
 <div align="center">
 
-💼 **LinkedIn**
+### Vamos nos conectar?
 
-https://www.linkedin.com/in/vitor-fideliss/
+Estou aberto a oportunidades como **Desenvolvedor Backend Java Júnior**.
 
-🐙 **GitHub**
+<a href="https://www.linkedin.com/in/vitor-fideliss/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-https://github.com/VitorFidelis
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:2563EB&height=100&section=footer"/>
 
 </div>
