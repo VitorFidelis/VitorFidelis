@@ -69,6 +69,29 @@ Sistema desenvolvido para digitalizar o processo de entrega e recebimento de equ
 
 ---
 
+### FinaObra — Sistema de Gestão de Gastos para Construção
+
+Sistema desenvolvido para facilitar o gerenciamento de gastos relacionados à construção, permitindo que cada usuário registre e acompanhe suas despesas de forma organizada, centralizada e segura.
+
+**Principais funcionalidades:**
+- Cadastro e gerenciamento de categorias.
+- Cadastro, consulta, edição e exclusão de despesas.
+- Dashboard com indicadores e resumos visuais dos valores registrados.
+- Sistema de autenticação e autorização de usuários.
+- Isolamento dos dados por usuário, garantindo que cada pessoa tenha acesso somente às suas próprias informações.
+
+**Decisões técnicas:**
+- Desenvolvimento de uma API REST utilizando Java e Spring Boot.
+- Persistência dos dados em banco de dados PostgreSQL.
+- Implementação de autenticação e autorização com Spring Security e JWT.
+- Implementação de controle de requisições (Rate Limiting) com Bucket4j, utilizando limites distintos para usuários autenticados e não autenticados.
+- Integração com Hazelcast para compartilhamento do estado dos limitadores de requisições entre diferentes instâncias da aplicação, permitindo manter o controle centralizado em cenários de escalabilidade horizontal.
+- Deploy do frontend estático na Vercel e da API backend no Render.
+
+**Tecnologias utilizadas:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Hazelcast, Bucket4j, REST API, Flyway, Vercel e Render.
+
+[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github)](https://github.com/VitorFidelis/FinaObra)
+
 <div align="center">
 
 ### Vamos nos conectar?
