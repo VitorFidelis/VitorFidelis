@@ -63,7 +63,7 @@ Sistema desenvolvido para digitalizar o processo de entrega e recebimento de equ
 - Containerização da aplicação com Docker.
 - Integração entre o registro dos termos, a assinatura digital e a geração dos documentos.
 
-**Tecnologias:** Java, Spring Boot, PostgreSQL e Docker.
+**Tecnologias:** Java, Spring Boot, PostgreSQL, Docker e RabbitMQ.
 
 [![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github)](https://github.com/VitorFidelis/FinaTermo)
 
@@ -88,7 +88,7 @@ Sistema desenvolvido para facilitar o gerenciamento de gastos relacionados à co
 - Integração com Hazelcast para compartilhamento do estado dos limitadores de requisições entre diferentes instâncias da aplicação, permitindo manter o controle centralizado em cenários de escalabilidade horizontal.
 - Deploy do frontend estático na Vercel e da API backend no Render.
 
-**Tecnologias utilizadas:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Hazelcast, Bucket4j, REST API, Flyway, Vercel e Render.
+**Tecnologias:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Hazelcast, Bucket4j, REST API, Flyway, Vercel e Render.
 
 [![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github)](https://github.com/VitorFidelis/FinaObra)
 
